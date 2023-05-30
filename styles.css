@@ -1,0 +1,123 @@
+/* body {
+    background-image: url(TechPic.webp);
+    background-size: cover;
+} */
+
+img {
+    width: 25%;
+    height: 25%;
+    display: block;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+div {
+    margin: 30px 0;
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+#underline {
+    text-decoration: underline;
+}
+
+.abel-font {
+    font-family: 'Abel', Verdana, Tahoma, sans-serif; /* font from Google Fonts */
+
+}
+
+h2 {
+    margin-left: 20px;
+}
+
+.headline {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(37, 37, 154);
+}
+
+.links {
+    text-align: center;
+    font-family: 'Abel', Georgia, 'Times New Roman', Times, serif; 
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#goodreads-logo {
+    width: 80px;
+}
+
+#strava-logo {
+    width: 90px;
+}
+
+#linkedin-logo {
+    width: 120px;
+}
+
+#github-logo {
+    width: 120px;
+}
+
+.pic1 {
+    margin: 0 auto;
+    width: 1000px;
+    border: 6px solid black;
+    border-radius: 10px;
+    background-image: url("images/headshot.jpg");
+    background-size: cover;
+}
+
+.pic1:hover {
+    background-image: url(images/atl-solo-pic.jpeg);
+}
+
+.pic2 {
+    margin: 0 auto;
+    width: 1050px;
+    border: 6px solid black;
+    border-radius: 10px;
+    background-image: url("images/Pic1.jpeg");
+    background-size: cover;
+}
+
+.pic2:hover {
+    background-image: url("images/savannah-solo-pic.jpeg");
+}
+
+.pic3 {
+    margin: 0 40px 0 40px;
+    width: 500px;
+    border: 6px solid black;
+    border-radius: 10px;
+    background-image: url("images/Pic2.jpeg");
+    background-size: cover;
+}
+
+.pic3:hover {
+    background-image: url("images/night-back-pic.jpeg");
+}
+
+.pic4 {
+    margin: 0 0 0 20px;
+    width: 500px;
+    border: 6px solid black;
+    border-radius: 10px;
+    background-image: url("images/savannah-group-pic.jpeg");
+    background-size: cover;
+}
+
+.pic4:hover {
+    background-image: url("images/holi-pic.jpeg");
+}
