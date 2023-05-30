@@ -1,7 +1,6 @@
-/* body {
-    background-image: url(TechPic.webp);
-    background-size: cover;
-} */
+body {
+    background: linear-gradient(#12C2E9, #F64F59);
+}
 
 img {
     width: 25%;
